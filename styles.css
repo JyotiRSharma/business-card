@@ -10,12 +10,12 @@ body {
 
 @keyframes fade {
     from {width: 0px}
-    to {width: 150px}
+    to {width: 300px}
 }
 .avatar {
     animation: fade;
     animation-duration: 2s;
-    width: 150px;
+    width: 300px;
     border: none;
     border-radius: 10px;
 
@@ -23,7 +23,7 @@ body {
 
 
 .card {
-    width: 400px;
+    width: 800px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
